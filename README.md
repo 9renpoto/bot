@@ -1,5 +1,7 @@
 # bot
 
+**This repository has been archived and is no longer maintained.**
+
 ![Actions Status](https://github.com/9renpoto/bot/workflows/Node%20CI/badge.svg)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
