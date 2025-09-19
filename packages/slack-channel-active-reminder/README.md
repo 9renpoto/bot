@@ -1,5 +1,7 @@
 # slack-channel-active-reminder
 
+**This package has been archived and is no longer maintained.**
+
 [![npm version](https://badge.fury.io/js/slack-channel-active-reminder.svg)](https://www.npmjs.com/package/slack-channel-active-reminder)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 

@@ -1,5 +1,7 @@
 # botkit-karma-simple
 
+**This package has been archived and is no longer maintained.**
+
 botkit++
 
 [![npm version](https://badge.fury.io/js/botkit-karma-simple.svg)](https://badge.fury.io/js/botkit-karma-simple)
